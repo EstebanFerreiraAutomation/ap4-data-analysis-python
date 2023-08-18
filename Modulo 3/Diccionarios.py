@@ -22,4 +22,4 @@ for key, value in my_dict.items():
     print(f'key {key}, value {value}')
 
 print('Nombre' in my_dict) # Devuelve si la clave existe o no en el diccionario
-print('DNI' in my_dict)
+print('DNI' in my_dict) #False, no existe la key
